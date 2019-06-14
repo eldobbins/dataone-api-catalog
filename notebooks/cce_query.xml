@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>\n
+<response>\n
+    <lst name="responseHeader">
+        <int name="status">0</int>
+        <int name="QTime">7</int>
+        <lst name="params">
+            <str name="q">id:*metadata/*knb-lter-cce* AND -obsoletedBy</str>
+            <str name="fl">id,title,resourceMap</str>
+            <str name="start">0</str>
+            <str name="sort">id asc</str>
+            <str name="rows">1</str>
+        </lst>
+    </lst>
+    <result name="response" numFound="211" start="0">
+        <doc>
+            <str name="id">https://pasta.lternet.edu/package/metadata/eml/knb-lter-cce/10/1</str>
+            <str name="title">Parameters from discrete bottle samples on a hydrographic CTD (Conductivity Temperature Depth) cast during CCE LTER process cruises in the CCE region, 2006 - ongoing.</str>
+            <arr name="resourceMap">
+                <str>doi:10.6073/pasta/26ee5cf5a4b2f9f7617c55297bb72083</str>
+            </arr>
+        </doc>
+    </result>\n
+</response>\n
