@@ -1,7 +1,7 @@
 name: dataone
 channels:
-  - defaults
   - conda-forge
+  - defaults
 dependencies:
   - appnope=0.1.0
   - attrs=19.3.0
@@ -39,7 +39,7 @@ dependencies:
   - libcxx=10.0.0
   - libedit=3.1.20191231
   - libffi=3.3
-  - libiconv=1.16
+  - libiconv=1.15
   - libpng=1.6.37
   - libsodium=1.0.18
   - libxml2=2.9.10
